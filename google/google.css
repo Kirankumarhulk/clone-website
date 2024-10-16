@@ -1,0 +1,242 @@
+.size {
+width: 200px;
+display: block;
+margin-left: 120px;
+margin-right: 50px;
+margin-top: 10px;
+margin-bottom: 10px;
+padding-bottom: 0px;
+padding-left: 0px;
+}
+.URL {
+display: block;
+width: 400px;
+height: 34px;
+margin-left: 20px;
+margin-top: 0px;
+border-radius: 20px;
+outline: none;
+border: none;
+box-shadow: 1px 1px 6px 1px rgba(0, 0, 0, 0.3);
+padding-left: 13px;
+font-family: Arial, Helvetica, sans-serif;
+}
+.search {
+    display: inline-block;
+    margin-left: 88px;
+    margin-top: 30px;
+    height: 35px;
+    width: 110px;
+    margin-right: 20px;
+    font-family: arial;
+    border: none;
+}
+.feeling {
+    display: inline-block;
+    vertical-align: 0px;
+    margin-top: 0px;
+    height: 35px;
+    padding-left: 15px;
+    font-family: arial;
+    border: none;
+}
+.google {
+    display: inline-block;
+    vertical-align: center;
+    padding-top: 10px;
+    margin-top: 50px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    width: 450px;
+}
+.container2 {
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    width: 240px;
+    height: 150px;
+    margin-top: 0px;
+    vertical-align: top;
+    margin-top: 50px;
+    box-shadow: 0.5px 0.5px 3px 0.8px rgba(0, 0, 0, 0.3);
+}
+.profile1 {
+    display: inline-block;
+    border-radius: 50px;
+    margin-top: 25px;
+    margin-left: 13px;
+    height: 90px;
+}
+.container-text {
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    vertical-align: top;
+    margin-top: 50px;
+    width: 130px;
+    height: 140px;
+    margin-top: 5px;
+    margin-right: 0px;
+}
+.oliver, .popular, .cat {
+    display: inline-block;
+    margin-top: 18px;
+    vertical-align: px;
+    margin-left: 20px;
+    font-family: arial;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+.popular, .cat {
+    color: gray;
+    font-weight: normal;
+}
+.container-width {
+    display: inline-block;
+    box-shadow: 0.5px 0.5px 3px 2px rgba(0, 0,0, 0.3);
+    height: 110px;
+    width: 333px;
+    margin-left: 50px;
+    vertical-align: top;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.profile-container {
+    display: inline-block;
+    height: 110px;
+    width: 115px;
+    margin-top: 0px;
+    vertical-align: top;
+    
+}
+.profile-three {
+    display: inline-block;
+    height: 85px;
+    width: 85px;
+    margin-top: 10px;
+    margin-left: 15px;
+    border-radius: 50px;
+}
+.name-container {
+    display: inline-block;
+    height: 110px;
+    width: 140px;
+    vertical-align: 34px;
+    margin-top: 0;
+    vertical-align: top;
+    padding-bottom: 0px;
+}
+.name-oliver, .name-cat, .name-popular {
+    margin-left: 10px;
+    font-family: arial;
+    font-size: 15px;
+    font-weight: bold;
+}
+.name-cat, .name-popular {
+    font-weight: normal;
+    color: grey;
+    margin-top: 0px;
+}
+.follow {
+    display: inline-block;
+    height: 110px;
+    width: 70px;
+    vertical-align: 34px;
+    vertical-align: top;
+    padding-bottom: 0px;
+}
+.follow-button {
+    height: 30px;
+    width: 65px;
+    margin-top: 38px;
+    margin-left: 0pxpx;
+    border-radius: 6px;
+    outline: none;
+    border: none;
+    color: white;
+    background-color: rgb(10, 178, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    transition: color 0.5s, background-color 0.5s;
+}
+.follow-button:active {
+    color: rgb(10, 178, 255);
+    background-color: white;
+}
+
+
+
+.container3 {
+    height: 370px;
+    width: 330px;
+    display: block;
+    margin-left: 50px;
+    box-shadow: 0.1px 0.1px 0.1px 1.5px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.cont1 {
+    display: inline-block;
+    height: 123.3px;
+    width: 330px;
+    box-shadow: 0.1px 0.1px 0.1px 0.6px;
+}
+.yam-pro {
+    display: inline-block;
+    height: 123.3px;
+    width: 118px;
+    vertical-align: top;
+    margin-right: 0px;
+}
+.yam {
+    object-fit: cover;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    margin-top: 12px;
+    margin-left: 9px;
+}
+.name-cont {
+    display: inline-block;
+    vertical-align: top;
+    height: 123.3px;
+    width: 110px;
+    margin-left: 0px;
+}
+.name-yam {
+    margin-left: 10px;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 18px;
+    margin-bottom: 0px;
+}
+.name-yam2, .name-yam3 {
+    margin-top: 13px;
+    margin-left: 10px;
+    font-family: arial;
+    font-size: 18px;
+   color: gray;
+}
+.req-cont {
+    display: inline-block;
+    height: 123.3px;
+    width: 90px;
+}
+.f-btn {
+    margin-top: 50px;
+    margin-left: 13px;
+    width: 75px;
+    margin-left: 7px;
+    height: 28px;
+    font-family: arial;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(9, 136, 136);
+    border-radius: 6px;
+    border: none;
+    transition: color 0.3s, background-color 0.3s;
+}
+.f-btn:active {
+    background-color: white;
+    color: rgb(9, 136, 136);
+}

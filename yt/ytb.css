@@ -1,0 +1,24 @@
+.one {
+    background-color: aqua;
+    display: grid;
+    height: 100px;
+    
+}
+.two {
+    background-color: black;
+    display: grid;
+    grid-template-columns: 200px;
+    height: 100px;
+}
+.three {
+    background-color: brown;
+    height: 100px;
+}
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 15px;
+    row-gap: 10px;
+}
+
+

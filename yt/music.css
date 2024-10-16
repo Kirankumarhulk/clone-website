@@ -1,0 +1,46 @@
+.container {
+    background-color: aquamarine;
+    height: 800px;
+    margin-top: 100px;
+    margin-left: 100px;
+    width: 700px;
+}
+.img-cont {
+    background-color: blanchedalmond;
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    margin-top: 100px;
+    margin-left: 140px;
+}
+.poster {
+    height: 400px;
+}
+.title-bar {
+    background-color: red;
+    width: 405px;
+    margin-left: 140px;
+    margin-top: 0px;
+}
+.title {
+    margin-top: 0px;
+    font-size: 30px;
+    font-family: arial;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 0px;
+}
+.name {
+    font-size: 25px;
+    font-family: arial;
+    font-weight: bold;
+    color: white;
+    margin-top: 0px;
+}
+.min-bar {
+    display: inline-block;
+    background-color: black;
+    height: 80px;
+    width: 610px;
+    margin-left: 50px;
+}

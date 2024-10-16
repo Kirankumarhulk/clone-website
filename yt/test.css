@@ -1,0 +1,213 @@
+.header {
+    height: 55px;
+    margin-left: 0PX;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.left-section {
+    background-color: lightblue;
+    width: 150px;
+}
+.middel-section {
+    background-color: lightgreen;
+    flex: 1;
+    margin-left: 70PX;
+    margin-right: 35PX;
+    max-width: 700px;
+}
+.right-section {
+    background-color: pink;
+    width: 200px;
+}
+
+
+
+
+
+
+.list {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 30px;
+    row-gap: 20px;
+    margin-top: 50px;
+    margin-bottom: 70px;
+
+}
+.tumb {
+    width: 100%;
+}
+.prop-div {
+    height: 152px;
+    margin-top: 0px;
+    margin-left: 0px;
+    display: inline-block;
+    padding-left: 6px;
+}
+.prop {
+    height: 70px;
+    border-radius: 50px;
+    margin-top: 10px;
+    object-fit: contain;
+}
+.vid-info {
+    display: inline-block;
+    vertical-align: top;
+    font-size: 30px;
+    margin-left: 0px;
+    font-family: arial;
+    margin-top: 0px;
+}
+.text {
+    font-family: arial;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 15px;
+}
+.prop-name, .views {
+    font-family: arial;
+    font-size: 20px;
+    color: gray;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 15px;
+}
+.views {
+    margin-top: 0px;
+}
+.vid-prop {
+    display: grid;
+    grid-template-columns: 75px 1fr;
+}
+
+
+.div {
+    display: block;
+}
+.two-seven {
+    display: flex;
+}
+.two {
+    background-color: lightblue;
+    width: 200px;
+}
+.seven {
+    background-color: pink;
+    width: 75px;
+}
+
+.ITEM {
+    display: inline-block;
+    margin-top: 100px;
+    margin-left: 0px;
+}
+.item {
+    display: flex;
+}
+.item1{
+background-color: lightblue;
+width: 50px;
+}
+.item2 {
+background-color: pink;
+width: 100%;
+}
+.item3 {
+background-color: lightblue;
+width: 75px;
+}
+
+
+.flex-box {
+    background-color: lightgreen;
+    height: 40px;
+    width: 300px;
+    border-width: 1px;
+    border-color: red;
+    border-style: solid;
+}
+
+.item4 {
+    display: flex;
+}
+.item5, .item6, .item7, .item8 {
+    display: flex;
+    margin-top: 10px;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.item5, .item7 {
+    background-color: pink;
+}
+.item7 {
+    margin-left: 50px;
+}
+.item6, .item8 {
+    background-color: lightblue;
+    margin-left: 50px;
+}
+
+
+.div-cont {
+    background-color: lightblue;
+    display: flex;
+    height: 50px;
+    border-style: solid;
+    border-width: 2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.qwe, .qwer, .qwea {
+    margin-top: 15px;
+    background-color: greenyellow;
+    height: 20px;
+    width: 50px;
+    padding-left: 20px;
+}
+.qwer {
+background-color: pink;
+height: 20px;
+flex: ;
+}
+
+.chats {
+    width: 230px;
+    justify-content: space-around;
+    height: 80px;
+    border-style: solid;
+    border-width: 0.5px;
+    border-radius: 6px;
+    border-color: gray;
+}
+.home-main, .Notifications-main, .messages-main {
+    display: flex;
+    margin-left: 10px;
+    justify-content: space-between;
+    margin-right: 10px;
+}
+.home, .notifications, .messages, .ftn, .ftn2 {
+    font-family: arial;
+    font-size: 15px;
+    margin-top: 5px;
+    margin-bottom: 5px
+    height: 17px;
+}
+.ftn, .ftn2, .ftn3 {
+    background-color: rgba(0, 81, 255, 0.701);
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: arial;
+    width: 27px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+    border-radius: 15px;
+    height: 18px;
+    
+}
+.ftn2 {
+    width: 20px;
+}

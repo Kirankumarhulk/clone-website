@@ -1,0 +1,90 @@
+.style {
+    background-color: beige;
+    height: 100px;
+}
+.style1 {
+    background-color: aqua;
+    height: 100px;
+}
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+
+.gridone {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 20px;
+    
+    margin-top: 100px;
+
+    row-gap: 50px;
+}
+.tumb {
+    margin-top: 0px;
+    padding-top: 10px;
+    width: 500px;
+    
+    
+   
+    }
+    .oneo {
+        width: 100%;
+        object-fit: contain;
+        margin-top: 0px;
+        padding-top: 0px;
+    }
+    .pro-info {
+        
+        display: grid;
+        grid-template-columns: 85px 1fr;
+    }
+    
+    
+    .profileone {
+        width: 80px;
+        height: 85;
+        object-fit: contain;
+        border-radius: 100px;
+        margin-top: 15px;
+    }
+    
+    .BMW-text {
+        font-size: 35px;
+        margin-left: 10px;
+        font-family: arial;
+        vertical-align: top;
+        margin-bottom: 0px;
+        margin-top: 20px;
+        
+    }
+    .BMW-name, .bmw-views {
+        display: block;
+        font-size: 35px;
+        margin-left: 10px;
+        font-family: arial;
+        margin-bottom: 5px;
+        margin-top: 13px;
+        color: grey;
+        font-size: 29px;
+    }
+    .bmw-views {
+        margin-bottom: 20px;
+        margin-top: 5px;
+    
+    }
+    
+    .list-divt {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        column-gap: 50px;
+    }
+    .style {
+        background-color: beige;
+        height: 100px;
+    }
+    .style1 {
+        background-color: aqua;
+        height: 100px;
+    }
